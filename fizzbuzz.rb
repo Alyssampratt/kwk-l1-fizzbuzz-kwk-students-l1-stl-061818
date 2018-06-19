@@ -4,9 +4,9 @@
 
 def fizzbuzz(x)
   #if a number is divisible by 3, we want to return "fizz"
-  elsif x%3 == 0 && x%5 == 0
+  if x%3 == 0 && x%5 == 0
     puts "fizzbuzz"
-  if x%3 == 0
+  elsif x%3 == 0
   puts "fizz"
 
   elsif x%5 == 0 
