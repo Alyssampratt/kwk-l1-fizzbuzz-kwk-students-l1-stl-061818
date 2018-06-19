@@ -5,4 +5,3 @@
 def fizzbuzz(x)
   puts "you gave me #{x}"
 end
-fizzbuzz(3)
