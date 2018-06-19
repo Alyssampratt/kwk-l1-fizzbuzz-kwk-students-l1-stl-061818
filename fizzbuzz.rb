@@ -8,3 +8,4 @@ if x%3 == 0,
 puts "fizz"
 end
 end
+ruby fizzbuzz.irb(9)
