@@ -11,8 +11,6 @@ def fizzbuzz(x)
 
   elsif x%5 == 0 
     puts "buzz"
- 
-   
   end
 end
 fizzbuzz(15)
