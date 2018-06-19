@@ -13,5 +13,4 @@ end
     if x%3 == 0 && x%5 == 0
     puts "fizzbuzz"
   end
-  end
-fizzbuzz(15)
+end fizzbuzz(15)
