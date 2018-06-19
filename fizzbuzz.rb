@@ -3,5 +3,5 @@
 #if a number is divisible by 3 &5 return "fizz buzz"
 
 def fizzbuzz(x)
-  puts "you gave me #{x}"
+  
 end
