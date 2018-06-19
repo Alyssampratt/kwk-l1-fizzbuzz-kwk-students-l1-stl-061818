@@ -11,5 +11,5 @@ def fizzbuzz(x)
     puts "buzz"
 end
 elsif x%3 == 0 && x%5 == 0
-puts "fizzbuzz"
+  puts "fizzbuzz"
 fizzbuzz(9)
