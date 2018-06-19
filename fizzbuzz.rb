@@ -10,6 +10,7 @@ def fizzbuzz(x)
   if x%5 == 0 
     puts "buzz"
 end
-  elsif x%3 == 0 && x%5 == 0
+    elsif x%3 == 0 && x%5 == 0
     puts "fizzbuzz"
-fizzbuzz(9)
+  end
+fizzbuzz(15)
